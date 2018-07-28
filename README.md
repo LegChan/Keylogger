@@ -1,7 +1,7 @@
 # Keylogger
 For educational purpose only
 
-Aforementioned,this project was solely made for educational purpose,I do not claim any right for this program,I just made it based on others' work during my course.
+Aforementioned,this project was solely made for educational purpose,I do not claim any right for this program,I just made it based on others' work.
 
 Therefore,neither me nor the owner would allow you to use this project for any crime-possible
 
